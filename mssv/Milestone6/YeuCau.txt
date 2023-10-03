@@ -1,0 +1,1 @@
+Các bạn chỉnh sửa mã nguồn CSS để xuất hiện logo CiOne xuất hiện như hình và khi scroll chuột logo vẫn cố định nằm vị trí đó.

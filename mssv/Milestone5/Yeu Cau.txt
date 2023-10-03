@@ -1,0 +1,1 @@
+Bạn cần chỉnh sửa mã nguồn CSS để khi scroll chuột thì hình logo CiOne sẽ mất đi.

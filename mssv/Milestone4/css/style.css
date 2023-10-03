@@ -1,0 +1,17 @@
+.box{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    background-color: whitesmoke;
+    background-image: url('../img/paisley.png');
+    background-repeat: repeat-y;
+    background-position: 20% 50%;
+    border: 1px solid rgb(98, 163, 203);
+}
+
+p{
+    color: blue;
+    font-size: 1.5em;
+    margin: 5px;
+    padding: 5px;
+}
